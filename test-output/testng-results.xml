@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2144" started-at="2018-09-21T19:04:32Z" finished-at="2018-09-21T19:04:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2144" started-at="2018-09-21T19:04:32Z" finished-at="2018-09-21T19:04:34Z">
+      <class name="XmlPostRequest">
+        <test-method status="PASS" signature="postData()[pri:0, instance:XmlPostRequest@548e7350]" name="postData" duration-ms="2124" started-at="2018-09-22T00:34:32Z" finished-at="2018-09-22T00:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postData -->
+      </class> <!-- XmlPostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
